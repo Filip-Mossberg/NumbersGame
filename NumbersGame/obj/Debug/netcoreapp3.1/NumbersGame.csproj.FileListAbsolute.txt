@@ -1,0 +1,14 @@
+/Users/filip/Projects/NumbersGame/NumbersGame/bin/Debug/netcoreapp3.1/NumbersGame
+/Users/filip/Projects/NumbersGame/NumbersGame/bin/Debug/netcoreapp3.1/NumbersGame.deps.json
+/Users/filip/Projects/NumbersGame/NumbersGame/bin/Debug/netcoreapp3.1/NumbersGame.runtimeconfig.json
+/Users/filip/Projects/NumbersGame/NumbersGame/bin/Debug/netcoreapp3.1/NumbersGame.runtimeconfig.dev.json
+/Users/filip/Projects/NumbersGame/NumbersGame/bin/Debug/netcoreapp3.1/NumbersGame.dll
+/Users/filip/Projects/NumbersGame/NumbersGame/bin/Debug/netcoreapp3.1/NumbersGame.pdb
+/Users/filip/Projects/NumbersGame/NumbersGame/obj/Debug/netcoreapp3.1/NumbersGame.csproj.AssemblyReference.cache
+/Users/filip/Projects/NumbersGame/NumbersGame/obj/Debug/netcoreapp3.1/NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filip/Projects/NumbersGame/NumbersGame/obj/Debug/netcoreapp3.1/NumbersGame.AssemblyInfoInputs.cache
+/Users/filip/Projects/NumbersGame/NumbersGame/obj/Debug/netcoreapp3.1/NumbersGame.AssemblyInfo.cs
+/Users/filip/Projects/NumbersGame/NumbersGame/obj/Debug/netcoreapp3.1/NumbersGame.csproj.CoreCompileInputs.cache
+/Users/filip/Projects/NumbersGame/NumbersGame/obj/Debug/netcoreapp3.1/NumbersGame.dll
+/Users/filip/Projects/NumbersGame/NumbersGame/obj/Debug/netcoreapp3.1/NumbersGame.pdb
+/Users/filip/Projects/NumbersGame/NumbersGame/obj/Debug/netcoreapp3.1/NumbersGame.genruntimeconfig.cache

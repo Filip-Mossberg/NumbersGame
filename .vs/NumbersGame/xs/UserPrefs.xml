@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DC945A0E-FCA7-4BC9-B7E1-F5C95175874A}|Default">
+  <MonoDevelop.Ide.ItemProperties.NumbersGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumbersGame/Program.cs">
+    <Files>
+      <File FileName="NumbersGame/Program.cs" Line="19" Column="35" />
+      <File FileName=".vs/NumbersGame/xs/project-cache/NumbersGame-Debug.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NumbersGame" expanded="True">
+            <Node name="NumbersGame" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
